@@ -20,7 +20,7 @@ But whether or not your agency has its own, you are welcome to use this GitHub o
 ## What's the GitHub organization for?  
 
 * Open source projects by government staff that do not have their own agency open source repositories.  
-* Useful resources for government-specific digital needs.  
+* [Find and add to lists of useful resources that are available for government-specific digital needs](https://github.com/digitalgov/resources).  
 * Community-generated resources and guides for government websites.  
 
 ## Questions
